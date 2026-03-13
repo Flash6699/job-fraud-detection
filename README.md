@@ -1,5 +1,10 @@
 # 🕵️ Job Fraud Detection System
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red)
+
 A Machine Learning project that detects **fraudulent job postings** using **Natural Language Processing (NLP)** and **Logistic Regression**.
 
 This system analyzes job descriptions and predicts whether the job is **Real or Fraudulent**.
@@ -8,6 +13,7 @@ This system analyzes job descriptions and predicts whether the job is **Real or 
 
 # 🚀 Project Overview
 
+This project demonstrates an end-to-end machine learning pipeline including data preprocessing, model training, evaluation, and deployment via API and web interface.
 Online job platforms often contain fake job postings used for scams.
 This project builds a **machine learning model** to automatically identify fraudulent job listings.
 
@@ -66,7 +72,7 @@ The model performance is evaluated using the **ROC Curve**.
 Clone the repository:
 
 ```
-git clone https://github.com/Flash6699/job-fraud-detection.git
+git clone https://github.com/vedant-aiml/job-fraud-detection.git
 ```
 
 Move into the project folder:
@@ -169,10 +175,10 @@ Response:
 
 # 👨‍💻 Author
 
-**Vedant Shinde**
+**Vedant Shinde**  
+Machine Learning & AI Enthusiast
 
-GitHub:
-https://github.com/Flash6699
+GitHub: https://github.com/vedant-aiml
 
 ---
 
